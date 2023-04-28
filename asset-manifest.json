@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-payments/static/css/main.f6b97eec.css",
-    "main.js": "/react-payments/static/js/main.b6fa4c41.js",
+    "main.css": "/react-payments/static/css/main.d2b26fad.css",
+    "main.js": "/react-payments/static/js/main.7008bb24.js",
     "static/media/background_lotte_card.png": "/react-payments/static/media/background_lotte_card.0212cc759473b88de0ce.png",
     "static/media/background_kb_card.png": "/react-payments/static/media/background_kb_card.9ab18eb1e8651b62261d.png",
     "static/media/background_woori_card.png": "/react-payments/static/media/background_woori_card.573d2e7b5fcbedd5f129.png",
     "static/media/background_bc_card.png": "/react-payments/static/media/background_bc_card.2eab86bf7a0abf00e9c6.png",
     "static/media/background_shinhan_card.png": "/react-payments/static/media/background_shinhan_card.15ad799ed6648e6cfa3a.png",
     "index.html": "/react-payments/index.html",
-    "main.f6b97eec.css.map": "/react-payments/static/css/main.f6b97eec.css.map",
-    "main.b6fa4c41.js.map": "/react-payments/static/js/main.b6fa4c41.js.map"
+    "main.d2b26fad.css.map": "/react-payments/static/css/main.d2b26fad.css.map",
+    "main.7008bb24.js.map": "/react-payments/static/js/main.7008bb24.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6b97eec.css",
-    "static/js/main.b6fa4c41.js"
+    "static/css/main.d2b26fad.css",
+    "static/js/main.7008bb24.js"
   ]
 }
