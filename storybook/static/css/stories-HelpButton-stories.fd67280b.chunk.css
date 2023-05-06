@@ -1,0 +1,53 @@
+:root {
+  --dark-gray: #191919;
+  --gray: #444444;
+  --light-gray: #999999;
+  --slight-dark-white: #eeeeee;
+}
+
+.HelpButton_container__mlxm9 {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+  height: 100%;
+}
+
+.HelpButton_button__W-HhW {
+  font-size: 26px;
+  color: #444444;
+  color: var(--gray);
+  cursor: help;
+  transition: 0.2s;
+}
+
+.HelpButton_balloon__FZr46 {
+  position: absolute;
+  left: 33px;
+  padding: 10px;
+  word-wrap: break-word;
+  height: auto;
+  border-radius: 10px;
+  display: none;
+  background-color: #191919;
+  background-color: var(--dark-gray);
+  color: #191919;
+  color: var(--dark-gray);
+  overflow: hidden;
+  font-size: 12px;
+}
+
+.HelpButton_button__W-HhW:hover ~ .HelpButton_balloon__FZr46 {
+  display: block;
+  color: #eeeeee;
+  color: var(--slight-dark-white);
+}
+
+.HelpButton_button__W-HhW:hover {
+  color: #999999;
+  color: var(--light-gray);
+}
+
+
+/*# sourceMappingURL=stories-HelpButton-stories.fd67280b.chunk.css.map*/

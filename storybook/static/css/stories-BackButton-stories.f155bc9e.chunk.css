@@ -1,0 +1,46 @@
+:root {
+  --pure-black: #000000;
+  --pure-white: #ffffff;
+}
+
+.BackButton_button__OPfos {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 120px;
+  height: 40px;
+  background-color: #000000;
+  background-color: var(--pure-black);
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.BackButton_icon__YdcXI {
+  font-size: 18px;
+  color: #ffffff;
+  color: var(--pure-white);
+  margin-left: 5px;
+  margin-right: 5px;
+  transition: 0.3s;
+}
+
+.BackButton_button__OPfos:hover .BackButton_icon__YdcXI {
+  margin-left: 0;
+  margin-right: 10px;
+}
+
+.BackButton_title__tKrUO {
+  font-weight: 600;
+  color: #ffffff;
+  color: var(--pure-white);
+  -webkit-text-decoration: underline #000000;
+          text-decoration: underline #000000;
+  -webkit-text-decoration: underline var(--pure-black);
+          text-decoration: underline var(--pure-black);
+}
+
+
+/*# sourceMappingURL=stories-BackButton-stories.f155bc9e.chunk.css.map*/

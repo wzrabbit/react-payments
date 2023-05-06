@@ -1,0 +1,32 @@
+.AddCardButton_container__-rNbX {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 9px;
+}
+
+.AddCardButton_title__WOntt {
+  text-align: center;
+  color: var(--gray-300);
+  font-weight: 600;
+}
+
+.AddCardButton_card__mw8sl {
+  margin: 0 auto 0 auto;
+  background-color: var(--gray-200);
+  width: 208px;
+  height: 123px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  transition: 0.3s;
+  box-shadow: 3px 3px 10px var(--gray-300);
+  font-size: 20px;
+}
+
+.AddCardButton_card__mw8sl:hover {
+  background-color: var(--gray-100);
+}
+
+
+/*# sourceMappingURL=stories-AddCardButton-stories.1670d65f.chunk.css.map*/

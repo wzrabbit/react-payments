@@ -1,0 +1,84 @@
+:root {
+  --slight-bright-red: #ff3939;
+}
+
+.LabeledInput_info__2Siz\+ {
+  display: flex;
+  justify-content: space-between;
+  color: var(--gray-400);
+}
+
+.LabeledInput_error-message__zQwTI {
+  height: 15px;
+  color: #ff3939;
+  color: var(--slight-bright-red);
+}
+
+.LabeledInput_children__MTCJE {
+  height: 45px;
+  display: flex;
+  gap: 10px;
+}
+
+.Input_input__wmxoC {
+  border-style: none;
+  border-radius: 5px;
+  height: 45px;
+  background-color: var(--gray-with-slight-purple);
+  font-size: large;
+  text-align: center;
+}
+
+:root {
+  --dark-gray: #191919;
+  --gray: #444444;
+  --light-gray: #999999;
+  --slight-dark-white: #eeeeee;
+}
+
+.HelpButton_container__mlxm9 {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+  height: 100%;
+}
+
+.HelpButton_button__W-HhW {
+  font-size: 26px;
+  color: #444444;
+  color: var(--gray);
+  cursor: help;
+  transition: 0.2s;
+}
+
+.HelpButton_balloon__FZr46 {
+  position: absolute;
+  left: 33px;
+  padding: 10px;
+  word-wrap: break-word;
+  height: auto;
+  border-radius: 10px;
+  display: none;
+  background-color: #191919;
+  background-color: var(--dark-gray);
+  color: #191919;
+  color: var(--dark-gray);
+  overflow: hidden;
+  font-size: 12px;
+}
+
+.HelpButton_button__W-HhW:hover ~ .HelpButton_balloon__FZr46 {
+  display: block;
+  color: #eeeeee;
+  color: var(--slight-dark-white);
+}
+
+.HelpButton_button__W-HhW:hover {
+  color: #999999;
+  color: var(--light-gray);
+}
+
+
+/*# sourceMappingURL=stories-LabeledInput-stories.3a949849.chunk.css.map*/

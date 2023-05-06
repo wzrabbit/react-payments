@@ -1,0 +1,28 @@
+.CardSelectButton_button__CyzMp {
+  display: inline-flex;
+  flex-direction: column;
+  width: 50px;
+  height: 70px;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.CardSelectButton_button__CyzMp:hover .CardSelectButton_logo__8kHU9 {
+  padding: 5px;
+}
+
+.CardSelectButton_logo__8kHU9 {
+  width: 100%;
+  padding: 8px;
+  transition: 0.3s;
+}
+
+.CardSelectButton_title__F396v {
+  width: 100%;
+  font-size: 10px;
+  text-align: center;
+}
+
+
+/*# sourceMappingURL=stories-CardSelectButton-stories.abee9b73.chunk.css.map*/
