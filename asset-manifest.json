@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-payments/static/css/main.1df11a90.css",
-    "main.js": "/react-payments/static/js/main.a40005d7.js",
+    "main.js": "/react-payments/static/js/main.753dcb18.js",
     "static/media/background_lotte_card.png": "/react-payments/static/media/background_lotte_card.0212cc759473b88de0ce.png",
     "static/media/background_kb_card.png": "/react-payments/static/media/background_kb_card.9ab18eb1e8651b62261d.png",
     "static/media/background_woori_card.png": "/react-payments/static/media/background_woori_card.573d2e7b5fcbedd5f129.png",
@@ -10,10 +10,10 @@
     "static/media/background_shinhan_card.png": "/react-payments/static/media/background_shinhan_card.15ad799ed6648e6cfa3a.png",
     "index.html": "/react-payments/index.html",
     "main.1df11a90.css.map": "/react-payments/static/css/main.1df11a90.css.map",
-    "main.a40005d7.js.map": "/react-payments/static/js/main.a40005d7.js.map"
+    "main.753dcb18.js.map": "/react-payments/static/js/main.753dcb18.js.map"
   },
   "entrypoints": [
     "static/css/main.1df11a90.css",
-    "static/js/main.a40005d7.js"
+    "static/js/main.753dcb18.js"
   ]
 }
